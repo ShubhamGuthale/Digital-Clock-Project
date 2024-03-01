@@ -4,14 +4,14 @@
  This is a simple Digital Clock created using HTML, CSS and JavaScript.
 
 
-## Features :-
+## Features 
 - Hours
 - Minutes
 - Seconds
   
 
 
-## Technology :-
+## Technology 
 - Html
 - CSS
 - JavaScript
